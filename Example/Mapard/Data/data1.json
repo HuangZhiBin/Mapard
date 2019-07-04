@@ -1,0 +1,34 @@
+{
+    "data": {
+        "cities": [
+            {
+                "id": 1,
+                "name": "北京市",
+                "latitude": 116.24000001,
+                "longitude": 39.55000001,
+                "population": 1234456231,
+                "isHot": true
+            },
+            {
+                "id": 2,
+                "name": "上海市",
+                "latitude": 121.29000002,
+                "longitude": 31.14000002,
+                "population": 309456232,
+                "isHot": false
+            },
+            {
+                "id": 3,
+                "name": "天津市",
+                "latitude": 117.12000003,
+                "longitude": 39.02000003,
+                "population": 8904456233,
+                "isHot": true
+            }
+        ],
+        "info": "这是三个城市",
+        "type" : 3
+    },
+    "title": "这是中国城市列表",
+    "time":"1545981876"
+}
