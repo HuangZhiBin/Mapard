@@ -1,0 +1,16 @@
+PODS:
+  - Mapard (0.1.0)
+
+DEPENDENCIES:
+  - Mapard (from `../`)
+
+EXTERNAL SOURCES:
+  Mapard:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Mapard: 348ee333174a609e9db5c9120adf9e5a55c3e8f2
+
+PODFILE CHECKSUM: 36532f7eb815b996ddf43d00c0a2ec5a009a3755
+
+COCOAPODS: 1.6.1
